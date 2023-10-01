@@ -55,7 +55,7 @@
 
     .botoes{
         padding: 20px;
-        top: -20px;
+        top: -25px;
         flex-direction: row;
         align-items: flex-end;
         background-image: none;
